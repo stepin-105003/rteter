@@ -10,7 +10,6 @@ COORD coord= {0,0}; // this is global variable
 void menu()
 {
     int choice;
-    system("cls");
     printf("\n--------MENU--------");
     printf("\n1 : Play with X");
     printf("\n2 : Play with O");
